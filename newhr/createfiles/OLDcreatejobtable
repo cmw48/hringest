@@ -1,0 +1,14 @@
+CREATE TABLE vivojob (
+ EmplID INT,
+ Empl_Rcd  VARCHAR(255),
+ Position_Nbr VARCHAR(255),
+ Jobcode VARCHAR(255),
+ Job_Title VARCHAR(255),
+ Headcount_Indicator VARCHAR(255),
+ DeptID VARCHAR(255),
+ Deptid_Ldesc VARCHAR(255),
+ UnitID VARCHAR(255),
+ UnitID_Ldesc VARCHAR(255),
+ Company VARCHAR(255),
+ Job_Family_Ldesc VARCHAR(255)
+ )

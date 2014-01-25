@@ -1,0 +1,15 @@
+UPDATE vivoperson SET NetID=LOWER(NetID);
+UPDATE vivoseparate SET NetID=LOWER(NetID);
+UPDATE vivoemeritus SET NetID=LOWER(NetID);
+
+ALTER TABLE `vivoemeritus` ADD INDEX `EmplID` USING BTREE(`EmplID`);
+ALTER TABLE `vivoemeritus` ADD INDEX `NetID` USING BTREE(`NetID`);
+ALTER TABLE `vivojob` ADD INDEX `DeptID` USING BTREE(`DeptID`);
+ALTER TABLE `vivojob` ADD INDEX `Empl2Net` USING BTREE(`EmplID`, `Empl_Rcd`);
+ALTER TABLE `vivojob` ADD INDEX `EmplID` USING BTREE(`EmplID`);
+ALTER TABLE `vivojob` ADD INDEX `EmplRcd` USING BTREE(`Empl_Rcd`);
+ALTER TABLE `vivojob` ADD INDEX `UnitID` USING BTREE(`UnitID`);
+ALTER TABLE `vivojob` ADD INDEX `UnitID_Ldesc` USING BTREE(`UnitID_Ldesc`);
+ALTER TABLE `vivoperson` ADD INDEX `NetID` USING BTREE(`NetID`);
+ALTER TABLE `vivoperson` ADD PRIMARY KEY USING BTREE(`EmplID`);
+

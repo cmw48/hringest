@@ -1,0 +1,16 @@
+CREATE TABLE vivoperson (
+ EmplID INT,
+ NetID VARCHAR(10),
+ Last_Name VARCHAR(255),
+ First_Name VARCHAR(255),
+ Name_Prefix VARCHAR(255),
+ Name_Suffix VARCHAR(255),
+ Name VARCHAR(255),
+ Pref_Name VARCHAR(255),
+ Working_Title VARCHAR(255),
+ Campus_Phone VARCHAR(255),
+ Address VARCHAR(255),
+ Building VARCHAR(255),
+ City VARCHAR(255),
+ CU_Suppress_Addr VARCHAR(255)
+ )

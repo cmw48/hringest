@@ -1,0 +1,5 @@
+CREATE TABLE vivobilling (
+ EmplID INT,
+ PRIMARY KEY (EmplID), 
+ EffDT VARCHAR(50)
+ )

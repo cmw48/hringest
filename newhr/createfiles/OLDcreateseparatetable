@@ -1,0 +1,11 @@
+CREATE TABLE vivoseparate (
+ NetID VARCHAR(10),
+ EmplID INT,
+ Empl_Rcd VARCHAR(255),
+ Name VARCHAR(255),
+ Position_Nbr VARCHAR(255),
+ Job_Code VARCHAR(255),
+ Job_Title VARCHAR(255),
+ Empl_Status_Ldesc VARCHAR(255),
+ Termination_Dt VARCHAR(255)
+ )

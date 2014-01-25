@@ -1,0 +1,16 @@
+CREATE TABLE vivoperson (
+ emplId INT,
+ netId VARCHAR(10),
+ legalFirstName VARCHAR(255),
+ legalMiddleName VARCHAR(255),
+ legalMiddleInitial VARCHAR(255),
+ legalLastName VARCHAR(255),
+ legalSocialSuffix VARCHAR(255),
+ preferredFirstName VARCHAR(255),
+ preferredMiddleName VARCHAR(255),
+ preferredMiddleInitial VARCHAR(255),
+ preferredLastName VARCHAR(255),
+ preferredSocialSuffix VARCHAR(255),
+ preferredNameLabel VARCHAR(255)
+
+ )

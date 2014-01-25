@@ -1,0 +1,3 @@
+GRANT ALL ON newhr_cmw48.* TO 'vivouser'@'localhost' IDENTIFIED BY 'vivouser12';
+#GRANT ALL ON newhr_cmw48.* TO 'cmw48'@'lib-vivoweb-002.serverfarm.cornell.edu' IDENTIFIED BY 'gMpg5wj3EM8xucVqke';
+GRANT ALL ON newhr_cmw48.* TO 'cmw48'@'localhost' IDENTIFIED BY 'gMpg5wj3EM8xucVqke';

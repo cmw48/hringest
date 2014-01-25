@@ -1,0 +1,9 @@
+CREATE TABLE vivodegree (
+ EmplID INT,
+ Name VARCHAR(255),
+ Highest_Educ_Lvl_Ldesc VARCHAR(255),
+ Accomplishment_Ldesc VARCHAR(255),
+ School_Code_Ldesc VARCHAR(255),
+ Major_Code_Ldesc VARCHAR(255),
+ Endow_Chair_Code_Desc VARCHAR(255)
+ )

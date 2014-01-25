@@ -1,0 +1,22 @@
+CREATE TABLE vivojob (
+ emplId INT,
+ posnId VARCHAR(255),
+ primaryJob VARCHAR(255),
+ primaryType VARCHAR(255),
+ jobCode VARCHAR(255),
+ posnTitle VARCHAR(255),
+ businessTitle VARCHAR(255),
+ company VARCHAR(255),
+ companyName VARCHAR(255),
+ dLevelCode VARCHAR(255),
+ supOrgCode VARCHAR(255),
+ kfsOrgCode VARCHAR(255),
+ dLevelOrgName VARCHAR(255),
+ kfsOrgName VARCHAR(255),
+ supOrgName VARCHAR(255),
+ supOrg VARCHAR(255),
+ unitId VARCHAR(255),
+ startDate VARCHAR(255),
+ jobFamily VARCHAR(255),
+ jobFamilyGroup VARCHAR(255)
+ )

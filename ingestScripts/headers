@@ -1,0 +1,9 @@
+HTTP/1.1 302 Found
+Date: Tue, 13 Mar 2012 19:20:46 GMT
+Server: Apache/2.2.21 (Unix) DAV/2 mod_ssl/2.2.21 OpenSSL/0.9.8r JRun/4.0
+Set-Cookie: CUWALastWeblogin=0;path=/; secure
+Location: https://web1.login.cornell.edu:443/?SID=D283B344F5DCD0BB&WAK0Service=https/hris.ohr.cornell.edu@CIT.CORNELL.EDU&WAK2Name=&WAK0Realms=&ReturnURL=https://hris.ohr.cornell.edu/D283B344F5DCD0BB/cuwal2.c0ntinue&VerP=2&VerC=2.2.0.183/idmbuild@pine.cit.cornell.edu/Linux-RHEL4-183/2.2.10&VerS=Apache/2.2.21%20(Unix)%2020120311-0402&VerO=Linux%20cf026.serverfarm.cornell.edu%202.6.18-274.7.1.el5PAE%20%231%20SMP%20Mon%20Oct%2017%2012:05:46%20EDT%202011%20i686%20i686%20i386%20GNU/Linux%20Red%20Hat%20Enterprise%20Linux%20Server%20release%205.7%20%20Tikanga%20&Accept=K2&WANow=1331666446&WAK2Flags=1&WAreason=1
+Content-Length: 833
+Content-Type: text/html; charset=iso-8859-1
+Expires: Tue, 13 Mar 2012 19:20:46 GMT
+

@@ -1,0 +1,15 @@
+CREATE TABLE vivoseparate (
+ emplId VARCHAR(255),
+ event VARCHAR(255),
+ retActive VARCHAR(255),
+ emplFullName VARCHAR(255),
+ emplLastName VARCHAR(255),
+ reason VARCHAR(255),
+ effDate VARCHAR(255),
+ jobCode VARCHAR(255),
+ posnId VARCHAR(255),
+ hireDate VARCHAR(255),
+ jobFamilyCode VARCHAR(255),
+ currentlyActive VARCHAR(255),
+ contServDate VARCHAR(255)
+ )

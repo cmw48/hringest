@@ -1,0 +1,11 @@
+ALTER TABLE `vivojob` ADD INDEX `dLevelCode` USING BTREE(`dLevelCode`);
+ALTER TABLE `vivojob` ADD INDEX `emplId` USING BTREE(`emplId`);
+ALTER TABLE `vivojob` ADD INDEX `supOrgCode` USING BTREE(`supOrgCode`);
+ALTER TABLE `vivojob` ADD INDEX `dLevelOrgName` USING BTREE(`dLevelOrgName`);
+ALTER TABLE `vivojob` ADD PRIMARY KEY USING BTREE(`posnId`);
+ALTER TABLE `vivoperson` ADD INDEX `netId` USING BTREE(`netId`);
+ALTER TABLE `vivoperson` ADD PRIMARY KEY USING BTREE(`emplId`);
+ALTER TABLE `vivoseparate` ADD INDEX `jobCode` USING BTREE(`jobCode`);
+ALTER TABLE `vivoseparate` ADD INDEX `emplId` USING BTREE(`emplId`);
+#ALTER TABLE `vivoseparate` ADD PRIMARY KEY USING BTREE(`posnId`);
+

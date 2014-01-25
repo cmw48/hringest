@@ -1,0 +1,5 @@
+vivoNightlyBackup/
+newHrDbBackup/
+newhr/dbdumps/
+newhr/hr1*/
+!.gitignore

@@ -1,0 +1,3083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<terminations>
+   <termination>
+      <emplId>2671715</emplId>
+      <posnId>00120779-3</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Brandon N. Vail</emplFullName>
+      <effDate>2013-04-01-07:00</effDate>
+      <hireDate>2010-06-15-07:00</hireDate>
+      <contServDate>2010-06-15-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10984</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2011733</emplId>
+      <posnId>00138139</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Caitlin Helene Niederhofer</emplFullName>
+      <effDate>2013-04-30-07:00</effDate>
+      <hireDate>2011-07-26-07:00</hireDate>
+      <contServDate>2011-07-26-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2680072</emplId>
+      <posnId>00125178-6</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Kristina A. Williams</emplFullName>
+      <effDate>2013-04-30-07:00</effDate>
+      <hireDate>2013-01-24-08:00</hireDate>
+      <contServDate>2013-01-24-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10972</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1036266</emplId>
+      <posnId>00151915</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Ann H Sullivan</emplFullName>
+      <effDate>2013-05-07-07:00</effDate>
+      <hireDate>2013-05-02-07:00</hireDate>
+      <contServDate>2013-05-02-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2553158</emplId>
+      <posnId>00101631-115</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Cheng Qiu</emplFullName>
+      <effDate>2013-05-15-07:00</effDate>
+      <hireDate>2010-09-21-07:00</hireDate>
+      <contServDate>2013-02-08-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2556252</emplId>
+      <posnId>00144307</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Claudia Meschiari</emplFullName>
+      <effDate>2013-05-25-07:00</effDate>
+      <hireDate>2010-01-15-08:00</hireDate>
+      <contServDate>2010-01-15-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10210</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2861964</emplId>
+      <posnId>00144307-1</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Sandra Annunziata</emplFullName>
+      <effDate>2013-05-25-07:00</effDate>
+      <hireDate>2011-03-02-08:00</hireDate>
+      <contServDate>2011-03-02-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10210</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3121472</emplId>
+      <posnId>00143576</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Viviana Androila</emplFullName>
+      <effDate>2013-05-25-07:00</effDate>
+      <hireDate>2012-01-15-08:00</hireDate>
+      <contServDate>2012-01-15-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10937</jobCode>
+      <jobCodeFamily>TEACH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3397551</emplId>
+      <posnId>00144307-3</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Alessio Rosati</emplFullName>
+      <effDate>2013-05-25-07:00</effDate>
+      <hireDate>2013-01-14-08:00</hireDate>
+      <contServDate>2013-01-14-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10210</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1277308</emplId>
+      <posnId>00152387</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Eric Tagliacozzo</emplFullName>
+      <effDate>2013-05-29-07:00</effDate>
+      <hireDate>2000-07-01-07:00</hireDate>
+      <contServDate>2000-07-01-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10742</jobCode>
+      <jobCodeFamily>PROF</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1309415</emplId>
+      <posnId>00153591</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Jeffrey T. Hancock</emplFullName>
+      <effDate>2013-06-05-07:00</effDate>
+      <hireDate>2002-08-26-07:00</hireDate>
+      <contServDate>2002-08-26-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10733</jobCode>
+      <jobCodeFamily>PROF</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1308588</emplId>
+      <posnId>00154832</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Tarleton L. Gillespie</emplFullName>
+      <effDate>2013-06-05-07:00</effDate>
+      <hireDate>2002-07-01-07:00</hireDate>
+      <contServDate>2004-07-01-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10733</jobCode>
+      <jobCodeFamily>PROF</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1975516</emplId>
+      <posnId>00100293-1</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Matthew Joseph Lavengood</emplFullName>
+      <effDate>2013-06-13-07:00</effDate>
+      <hireDate>2009-09-02-07:00</hireDate>
+      <contServDate>2013-01-28-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2451344</emplId>
+      <posnId>00155671</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Gordon E Andrews</emplFullName>
+      <effDate>2013-06-13-07:00</effDate>
+      <hireDate>2013-05-23-07:00</hireDate>
+      <contServDate>2013-05-23-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10975</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>Return to School</reason>
+   </termination>
+   <termination>
+      <emplId>1013580</emplId>
+      <posnId>00101586</posnId>
+      <event>Terminate</event>
+      <retActive>On Leave</retActive>
+      <emplFullName>Christine K. Ranney</emplFullName>
+      <effDate>2013-06-30-07:00</effDate>
+      <hireDate>1983-04-14-08:00</hireDate>
+      <contServDate>1983-04-14-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10733</jobCode>
+      <jobCodeFamily>PROF</jobCodeFamily>
+      <reason>Retirement</reason>
+   </termination>
+   <termination>
+      <emplId>1000281</emplId>
+      <posnId>00153630</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Frederick W. Debruyn</emplFullName>
+      <effDate>2013-07-06-07:00</effDate>
+      <hireDate>1979-08-23-07:00</hireDate>
+      <contServDate>1980-12-25-08:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10488</jobCode>
+      <jobCodeFamily>ATHLET</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2537954</emplId>
+      <posnId>00121936-115</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Christopher Glenn Hayes</emplFullName>
+      <effDate>2013-07-08-07:00</effDate>
+      <hireDate>2012-08-10-07:00</hireDate>
+      <contServDate>2013-02-21-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2165391</emplId>
+      <posnId>00156952</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Dylan Joseph Beal</emplFullName>
+      <effDate>2013-07-09-07:00</effDate>
+      <hireDate>2010-05-24-07:00</hireDate>
+      <contServDate>2013-06-03-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1015165</emplId>
+      <posnId>00155296</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>David A. Levitsky</emplFullName>
+      <effDate>2013-07-15-07:00</effDate>
+      <hireDate>1970-09-01-07:00</hireDate>
+      <contServDate>1970-09-01-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10742</jobCode>
+      <jobCodeFamily>PROF</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3120910</emplId>
+      <posnId>00165615</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Jr-Jiun Liou</emplFullName>
+      <effDate>2013-07-16-07:00</effDate>
+      <hireDate>2012-08-10-07:00</hireDate>
+      <contServDate>2013-07-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1016622</emplId>
+      <posnId>00153637</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Claudia Melin</emplFullName>
+      <effDate>2013-07-16-07:00</effDate>
+      <hireDate>2013-06-29-07:00</hireDate>
+      <contServDate>2013-06-29-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2553005</emplId>
+      <posnId>00101634</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Aditya Shrinivas</emplFullName>
+      <effDate>2013-07-26-07:00</effDate>
+      <hireDate>2010-09-02-07:00</hireDate>
+      <contServDate>2013-01-01-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3113947</emplId>
+      <posnId>00164475</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Yongcheng Tai</emplFullName>
+      <effDate>2013-07-31-07:00</effDate>
+      <hireDate>2012-08-10-07:00</hireDate>
+      <contServDate>2013-07-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2038686</emplId>
+      <posnId>00146608-115</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Sean T. Callahan</emplFullName>
+      <effDate>2013-07-31-07:00</effDate>
+      <hireDate>2010-04-06-07:00</hireDate>
+      <contServDate>2012-06-11-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10984</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2843640</emplId>
+      <posnId>00145103</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Joshua Mark Davendonis</emplFullName>
+      <effDate>2013-08-01-07:00</effDate>
+      <hireDate>2011-08-16-07:00</hireDate>
+      <contServDate>2013-01-02-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10984</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2860689</emplId>
+      <posnId>00163599</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Koffi Nono Trenou</emplFullName>
+      <effDate>2013-08-01-07:00</effDate>
+      <hireDate>2011-09-06-07:00</hireDate>
+      <contServDate>2013-06-03-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2843640</emplId>
+      <posnId>00100297</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Joshua Mark Davendonis</emplFullName>
+      <effDate>2013-08-01-07:00</effDate>
+      <hireDate>2011-08-16-07:00</hireDate>
+      <contServDate>2013-01-02-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10984</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3225399</emplId>
+      <posnId>00157975</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Riley O. Cole</emplFullName>
+      <effDate>2013-08-05-07:00</effDate>
+      <hireDate>2013-06-17-07:00</hireDate>
+      <contServDate>2013-06-17-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2860637</emplId>
+      <posnId>00155578</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Ryan Allister Wickens</emplFullName>
+      <effDate>2013-08-07-07:00</effDate>
+      <hireDate>2012-01-23-08:00</hireDate>
+      <contServDate>2013-05-31-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3502127</emplId>
+      <posnId>00163891</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Karen Randle</emplFullName>
+      <effDate>2013-08-08-07:00</effDate>
+      <hireDate>2013-07-02-07:00</hireDate>
+      <contServDate>2013-07-02-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2287339</emplId>
+      <posnId>00155783</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Fiona Claire Doherty</emplFullName>
+      <effDate>2013-08-09-07:00</effDate>
+      <hireDate>2012-08-10-07:00</hireDate>
+      <contServDate>2013-05-31-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3354041</emplId>
+      <posnId>00158105</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Diego Jose Gris</emplFullName>
+      <effDate>2013-08-09-07:00</effDate>
+      <hireDate>2012-12-15-08:00</hireDate>
+      <contServDate>2013-05-27-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1000336</emplId>
+      <posnId>00164950</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>John Henry Moran Jr</emplFullName>
+      <effDate>2013-08-11-07:00</effDate>
+      <hireDate>1982-08-19-07:00</hireDate>
+      <contServDate>1982-08-19-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10515</jobCode>
+      <jobCodeFamily>TEACH</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1035118</emplId>
+      <posnId>00155260</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Robert M. Ross</emplFullName>
+      <effDate>2013-08-11-07:00</effDate>
+      <hireDate>1998-09-10-07:00</hireDate>
+      <contServDate>1998-09-10-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10732</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1000483</emplId>
+      <posnId>00155265</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Thomas M. Silva</emplFullName>
+      <effDate>2013-08-11-07:00</effDate>
+      <hireDate>1993-08-26-07:00</hireDate>
+      <contServDate>1997-08-21-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10516</jobCode>
+      <jobCodeFamily>TEACH</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1000483</emplId>
+      <posnId>00155266</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Thomas M. Silva</emplFullName>
+      <effDate>2013-08-11-07:00</effDate>
+      <hireDate>1993-08-26-07:00</hireDate>
+      <contServDate>1997-08-21-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10516</jobCode>
+      <jobCodeFamily>TEACH</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2139360</emplId>
+      <posnId>00164125</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Andrea Lamere Fortman</emplFullName>
+      <effDate>2013-08-15-07:00</effDate>
+      <hireDate>2009-10-07-07:00</hireDate>
+      <contServDate>2013-06-10-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2119813</emplId>
+      <posnId>00164868</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Meng Qi Xu</emplFullName>
+      <effDate>2013-08-15-07:00</effDate>
+      <hireDate>2009-09-08-07:00</hireDate>
+      <contServDate>2013-07-18-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2204441</emplId>
+      <posnId>00156207</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Jeremy M Newlin</emplFullName>
+      <effDate>2013-08-15-07:00</effDate>
+      <hireDate>2013-06-11-07:00</hireDate>
+      <contServDate>2013-06-11-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2234022</emplId>
+      <posnId>00156996</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Lauren Angela Rice</emplFullName>
+      <effDate>2013-08-15-07:00</effDate>
+      <hireDate>2009-08-27-07:00</hireDate>
+      <contServDate>2013-06-03-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1006831</emplId>
+      <posnId>00166295</posnId>
+      <event>Terminate</event>
+      <retActive>Retired - Active</retActive>
+      <emplFullName>Carolyn Klass</emplFullName>
+      <effDate>2013-08-15-07:00</effDate>
+      <hireDate>1968-05-29-07:00</hireDate>
+      <contServDate>2013-08-08-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1270458</emplId>
+      <posnId>00165827</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Kathy Ann Miller</emplFullName>
+      <effDate>2013-08-15-07:00</effDate>
+      <hireDate>2013-07-22-07:00</hireDate>
+      <contServDate>2013-07-22-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1864402</emplId>
+      <posnId>00164181</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Lauren A. Bamford</emplFullName>
+      <effDate>2013-08-15-07:00</effDate>
+      <hireDate>2013-07-01-07:00</hireDate>
+      <contServDate>2013-07-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2029994</emplId>
+      <posnId>00165833</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Frank E. Fish</emplFullName>
+      <effDate>2013-08-15-07:00</effDate>
+      <hireDate>2013-07-22-07:00</hireDate>
+      <contServDate>2013-07-22-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1019540</emplId>
+      <posnId>00165118</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Nick Salvatore</emplFullName>
+      <effDate>2013-08-15-07:00</effDate>
+      <hireDate>1981-08-20-07:00</hireDate>
+      <contServDate>1981-08-20-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10742</jobCode>
+      <jobCodeFamily>PROF</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1004024</emplId>
+      <posnId>00165835</posnId>
+      <event>End Additional Job</event>
+      <retActive>Retired - Active</retActive>
+      <emplFullName>Joann Gruttadaurio</emplFullName>
+      <effDate>2013-08-15-07:00</effDate>
+      <hireDate>1974-08-29-07:00</hireDate>
+      <contServDate>2013-07-01-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2843673</emplId>
+      <posnId>00164306</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Tomas Lucas</emplFullName>
+      <effDate>2013-08-16-07:00</effDate>
+      <hireDate>2013-01-01-08:00</hireDate>
+      <contServDate>2013-07-10-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10937</jobCode>
+      <jobCodeFamily>TEACH</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3372001</emplId>
+      <posnId>00164737</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Matthew Ryan Gentry</emplFullName>
+      <effDate>2013-08-16-07:00</effDate>
+      <hireDate>2013-07-15-07:00</hireDate>
+      <contServDate>2013-07-15-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2438757</emplId>
+      <posnId>00156571</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Landon T. Morey</emplFullName>
+      <effDate>2013-08-16-07:00</effDate>
+      <hireDate>2013-05-18-07:00</hireDate>
+      <contServDate>2013-05-18-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3215149</emplId>
+      <posnId>00153716</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Derek P. Stickland</emplFullName>
+      <effDate>2013-08-16-07:00</effDate>
+      <hireDate>2013-05-20-07:00</hireDate>
+      <contServDate>2013-05-20-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3247185</emplId>
+      <posnId>00165398</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Robert M. Keefe</emplFullName>
+      <effDate>2013-08-16-07:00</effDate>
+      <hireDate>2012-08-16-07:00</hireDate>
+      <contServDate>2013-08-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10513</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>Department Request</reason>
+   </termination>
+   <termination>
+      <emplId>3248052</emplId>
+      <posnId>00165395</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Jong Deuk Park</emplFullName>
+      <effDate>2013-08-16-07:00</effDate>
+      <hireDate>2012-08-16-07:00</hireDate>
+      <contServDate>2013-08-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10513</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>Department Request</reason>
+   </termination>
+   <termination>
+      <emplId>2083083</emplId>
+      <posnId>00165393</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Wendy Michelle Richman</emplFullName>
+      <effDate>2013-08-16-07:00</effDate>
+      <hireDate>2007-10-08-07:00</hireDate>
+      <contServDate>2013-08-13-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10513</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>Department Request</reason>
+   </termination>
+   <termination>
+      <emplId>3247121</emplId>
+      <posnId>00165549</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>William H. Roberts</emplFullName>
+      <effDate>2013-08-16-07:00</effDate>
+      <hireDate>2012-08-16-07:00</hireDate>
+      <contServDate>2013-08-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10513</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>Department Request</reason>
+   </termination>
+   <termination>
+      <emplId>1037564</emplId>
+      <posnId>00165397</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Lauri A. Robinson-Keegan</emplFullName>
+      <effDate>2013-08-16-07:00</effDate>
+      <hireDate>2012-08-16-07:00</hireDate>
+      <contServDate>2013-08-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10513</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>Department Request</reason>
+   </termination>
+   <termination>
+      <emplId>1085675</emplId>
+      <posnId>00165402</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Sera Jane Smolen</emplFullName>
+      <effDate>2013-08-16-07:00</effDate>
+      <hireDate>2012-08-16-07:00</hireDate>
+      <contServDate>2013-08-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10513</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>Department Request</reason>
+   </termination>
+   <termination>
+      <emplId>3247201</emplId>
+      <posnId>00165983</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Christopher G. White</emplFullName>
+      <effDate>2013-08-16-07:00</effDate>
+      <hireDate>2012-08-16-07:00</hireDate>
+      <contServDate>2013-08-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10513</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>Department Request</reason>
+   </termination>
+   <termination>
+      <emplId>2235871</emplId>
+      <posnId>00155793</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Stephanie Claire Ellman</emplFullName>
+      <effDate>2013-08-16-07:00</effDate>
+      <hireDate>2012-06-05-07:00</hireDate>
+      <contServDate>2013-05-31-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>11077</jobCode>
+      <jobCodeFamily>HEALTH</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1278212</emplId>
+      <posnId>00145368-1</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Thupten Dakpa</emplFullName>
+      <effDate>2013-08-17-07:00</effDate>
+      <hireDate>2000-04-09-07:00</hireDate>
+      <contServDate>2000-04-09-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10105</jobCode>
+      <jobCodeFamily>SRVFAC</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2287686</emplId>
+      <posnId>00155653</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Kae-Lynn Buchanan Wilson</emplFullName>
+      <effDate>2013-08-19-07:00</effDate>
+      <hireDate>2009-11-10-08:00</hireDate>
+      <contServDate>2013-05-31-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10972</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3495401</emplId>
+      <posnId>00155714</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Laura Rachael Hetrick</emplFullName>
+      <effDate>2013-08-19-07:00</effDate>
+      <hireDate>2013-05-27-07:00</hireDate>
+      <contServDate>2013-05-27-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2811798</emplId>
+      <posnId>00165831</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Abigail S. Tripler</emplFullName>
+      <effDate>2013-08-20-07:00</effDate>
+      <hireDate>2013-07-15-07:00</hireDate>
+      <contServDate>2013-07-15-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3148876</emplId>
+      <posnId>00165616</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Anne Josephine Brenna</emplFullName>
+      <effDate>2013-08-21-07:00</effDate>
+      <hireDate>2013-07-01-07:00</hireDate>
+      <contServDate>2013-07-08-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2008436</emplId>
+      <posnId>00151661</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Daniel Yucen Gu</emplFullName>
+      <effDate>2013-08-21-07:00</effDate>
+      <hireDate>2007-09-03-07:00</hireDate>
+      <contServDate>2013-02-21-08:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1891756</emplId>
+      <posnId>00122116</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Kara Elizabeth Pellowe</emplFullName>
+      <effDate>2013-08-23-07:00</effDate>
+      <hireDate>2010-07-19-07:00</hireDate>
+      <contServDate>2012-05-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10984</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3478002</emplId>
+      <posnId>00150484</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Nicole Ann Guido</emplFullName>
+      <effDate>2013-08-23-07:00</effDate>
+      <hireDate>2013-04-01-07:00</hireDate>
+      <contServDate>2013-04-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3478004</emplId>
+      <posnId>00150486</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Kelly A. Jaenecke</emplFullName>
+      <effDate>2013-08-23-07:00</effDate>
+      <hireDate>2013-04-01-07:00</hireDate>
+      <contServDate>2013-04-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2554088</emplId>
+      <posnId>00101657</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Wenjing Hu</emplFullName>
+      <effDate>2013-08-23-07:00</effDate>
+      <hireDate>2013-01-02-08:00</hireDate>
+      <contServDate>2013-01-02-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10984</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1759703</emplId>
+      <posnId>00156535</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Brian Lewis Sawford</emplFullName>
+      <effDate>2013-08-25-07:00</effDate>
+      <hireDate>2013-06-17-07:00</hireDate>
+      <contServDate>2013-06-17-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10839</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1827042</emplId>
+      <posnId>00152276</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Rebecca Lynn Toppin</emplFullName>
+      <effDate>2013-08-26-07:00</effDate>
+      <hireDate>2013-05-06-07:00</hireDate>
+      <contServDate>2013-05-06-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2840822</emplId>
+      <posnId>00167564</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Ke Wang</emplFullName>
+      <effDate>2013-08-26-07:00</effDate>
+      <hireDate>2012-08-10-07:00</hireDate>
+      <contServDate>2013-08-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2963145</emplId>
+      <posnId>00152159</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Valerie E. Anderson</emplFullName>
+      <effDate>2013-08-26-07:00</effDate>
+      <hireDate>2013-05-09-07:00</hireDate>
+      <contServDate>2013-05-09-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2814553</emplId>
+      <posnId>00134393-1</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Stephanie Hobbs</emplFullName>
+      <effDate>2013-08-27-07:00</effDate>
+      <hireDate>2011-10-28-07:00</hireDate>
+      <contServDate>2013-08-28-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>Return to School</reason>
+   </termination>
+   <termination>
+      <emplId>2969447</emplId>
+      <posnId>00155717</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Kaspar J. Kuehn</emplFullName>
+      <effDate>2013-08-30-07:00</effDate>
+      <hireDate>2013-05-28-07:00</hireDate>
+      <contServDate>2013-05-28-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1990792</emplId>
+      <posnId>00164359</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Candice Nicole Hilliard</emplFullName>
+      <effDate>2013-08-30-07:00</effDate>
+      <hireDate>2010-01-25-08:00</hireDate>
+      <contServDate>2013-07-02-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2966154</emplId>
+      <posnId>00155721</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Geoffrey R. Griffiths</emplFullName>
+      <effDate>2013-08-30-07:00</effDate>
+      <hireDate>2013-06-03-07:00</hireDate>
+      <contServDate>2013-06-03-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2966174</emplId>
+      <posnId>00153534</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Lucas G. Sisson</emplFullName>
+      <effDate>2013-08-30-07:00</effDate>
+      <hireDate>2013-05-14-07:00</hireDate>
+      <contServDate>2013-05-14-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3045520</emplId>
+      <posnId>00154623</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Robert Joseph Andrews III</emplFullName>
+      <effDate>2013-08-30-07:00</effDate>
+      <hireDate>2013-06-03-07:00</hireDate>
+      <contServDate>2013-06-03-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3242471</emplId>
+      <posnId>00154643</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Joseph B. Pugliese</emplFullName>
+      <effDate>2013-08-30-07:00</effDate>
+      <hireDate>2012-08-03-07:00</hireDate>
+      <contServDate>2013-06-03-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1263737</emplId>
+      <posnId>00172123</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Harold Wilhelm</emplFullName>
+      <effDate>2013-08-30-07:00</effDate>
+      <hireDate>1999-06-05-07:00</hireDate>
+      <contServDate>1999-06-15-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10344</jobCode>
+      <jobCodeFamily>TECH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1030928</emplId>
+      <posnId>00101637-1</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Erin K. Sharp</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>1997-08-14-07:00</hireDate>
+      <contServDate>2011-02-03-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10984</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2231667</emplId>
+      <posnId>00145552</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Miles Kai Luo</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2008-09-15-07:00</hireDate>
+      <contServDate>2011-06-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2048513</emplId>
+      <posnId>00157976</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Christopher P. Mancuso</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2012-08-10-07:00</hireDate>
+      <contServDate>2013-06-17-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10984</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1851839</emplId>
+      <posnId>00166332</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Robin Botie</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2013-08-16-07:00</hireDate>
+      <contServDate>2013-08-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3098549</emplId>
+      <posnId>00150356</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Ashlee H. Petell</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2011-12-19-08:00</hireDate>
+      <contServDate>2013-03-03-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1875589</emplId>
+      <posnId>00154711</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Timothy Kun Gao</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2008-09-16-07:00</hireDate>
+      <contServDate>2013-06-04-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3492446</emplId>
+      <posnId>00153784</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Marissa L. White</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2013-05-28-07:00</hireDate>
+      <contServDate>2013-05-28-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1004484</emplId>
+      <posnId>00163973</posnId>
+      <event>Terminate</event>
+      <retActive>Retired - Active</retActive>
+      <emplFullName>Patricia A. Welch</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>1976-08-16-07:00</hireDate>
+      <contServDate>2013-06-24-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10972</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1984017</emplId>
+      <posnId>00145594</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Michael Franklin Graw</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2012-08-10-07:00</hireDate>
+      <contServDate>2013-02-13-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2117138</emplId>
+      <posnId>00155628</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Gabriel Ng</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2009-08-27-07:00</hireDate>
+      <contServDate>2013-05-31-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2177616</emplId>
+      <posnId>00164126</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Diana Christine Rypkema</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2009-10-08-07:00</hireDate>
+      <contServDate>2013-06-26-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2528130</emplId>
+      <posnId>00153778</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Matthew A. Mulvaney</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2013-05-22-07:00</hireDate>
+      <contServDate>2013-05-22-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10984</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2559505</emplId>
+      <posnId>00164133</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>John S Bradley</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2013-07-01-07:00</hireDate>
+      <contServDate>2013-07-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1008949</emplId>
+      <posnId>00163843</posnId>
+      <event>Terminate</event>
+      <retActive>Retired - Active</retActive>
+      <emplFullName>Timothy J. Lynch</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>1979-08-06-07:00</hireDate>
+      <contServDate>2013-06-21-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1277669</emplId>
+      <posnId>00168431</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Elizabeth C. Siddon</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2013-07-22-07:00</hireDate>
+      <contServDate>2013-07-22-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1286551</emplId>
+      <posnId>00167461</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Christopher E. Siddon</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2013-07-22-07:00</hireDate>
+      <contServDate>2013-07-22-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2528130</emplId>
+      <posnId>00164136</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Matthew A. Mulvaney</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2013-05-22-07:00</hireDate>
+      <contServDate>2013-05-22-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10984</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1011276</emplId>
+      <posnId>00155299</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Kathryn S. March</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>1978-08-24-07:00</hireDate>
+      <contServDate>1981-08-20-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10742</jobCode>
+      <jobCodeFamily>PROF</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1009946</emplId>
+      <posnId>00164687</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Henry Walter Richardson</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>1970-09-01-07:00</hireDate>
+      <contServDate>1970-09-01-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10742</jobCode>
+      <jobCodeFamily>PROF</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2520237</emplId>
+      <posnId>00167553</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Paula M. Mikkelsen</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2009-11-16-08:00</hireDate>
+      <contServDate>2009-11-16-08:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10378</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2431527</emplId>
+      <posnId>00157755</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Ginette Marie Cornett</emplFullName>
+      <effDate>2013-08-31-07:00</effDate>
+      <hireDate>2011-10-26-07:00</hireDate>
+      <contServDate>2013-06-03-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2552226</emplId>
+      <posnId>00145190</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Christine Sudabeh Majd</emplFullName>
+      <effDate>2013-09-01-07:00</effDate>
+      <hireDate>2011-01-01-08:00</hireDate>
+      <contServDate>2012-07-09-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10972</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2441100</emplId>
+      <posnId>00150868</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Jessica J. Raes</emplFullName>
+      <effDate>2013-09-01-07:00</effDate>
+      <hireDate>2009-05-26-07:00</hireDate>
+      <contServDate>2013-03-27-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1112822</emplId>
+      <posnId>00169241</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Njoku Awa</emplFullName>
+      <effDate>2013-09-03-07:00</effDate>
+      <hireDate>2013-06-01-07:00</hireDate>
+      <contServDate>2013-08-19-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10975</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>Job Abandonment</reason>
+   </termination>
+   <termination>
+      <emplId>3218489</emplId>
+      <posnId>00154532</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Rigan Somersea Austin</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-06-03-07:00</hireDate>
+      <contServDate>2013-06-03-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2449508</emplId>
+      <posnId>00155576</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Mariami May Bekauri</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-06-03-07:00</hireDate>
+      <contServDate>2013-06-03-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3515387</emplId>
+      <posnId>00164135</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Kegan A. Black</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-06-10-07:00</hireDate>
+      <contServDate>2013-06-10-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2969163</emplId>
+      <posnId>00153779</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Emily L Burnell</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2011-06-01-07:00</hireDate>
+      <contServDate>2013-05-20-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3479591</emplId>
+      <posnId>00150827</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Rebecca L. Chase</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-04-01-07:00</hireDate>
+      <contServDate>2013-04-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2673534</emplId>
+      <posnId>00157855</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Brian S Christensen</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-06-27-07:00</hireDate>
+      <contServDate>2013-06-27-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3215151</emplId>
+      <posnId>00155571</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Alexander J. daSilva</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-06-03-07:00</hireDate>
+      <contServDate>2013-06-03-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3489710</emplId>
+      <posnId>00152370</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Linda P. Della Rosa</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-05-02-07:00</hireDate>
+      <contServDate>2013-05-02-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3493428</emplId>
+      <posnId>00154181</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Nicholas P. Durnin Jr</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-05-16-07:00</hireDate>
+      <contServDate>2013-05-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3495122</emplId>
+      <posnId>00155574</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Jonathan Wayne Eveland</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-05-30-07:00</hireDate>
+      <contServDate>2013-05-30-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2999219</emplId>
+      <posnId>00130622-1</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Nicholas Francesco Fazio</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2011-08-04-07:00</hireDate>
+      <contServDate>2011-08-04-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2450775</emplId>
+      <posnId>00153904</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Brianna E. Flonc</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-05-28-07:00</hireDate>
+      <contServDate>2013-05-28-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3479639</emplId>
+      <posnId>00169789</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Rebekah C. Fordon</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-04-02-07:00</hireDate>
+      <contServDate>2013-09-05-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3492659</emplId>
+      <posnId>00153906</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Paige D. Fralick</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-05-22-07:00</hireDate>
+      <contServDate>2013-05-22-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3500386</emplId>
+      <posnId>00157856</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Matthew Stephen Garlick</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-06-17-07:00</hireDate>
+      <contServDate>2013-06-17-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2663834</emplId>
+      <posnId>00153911</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Morgan Garlick</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-05-23-07:00</hireDate>
+      <contServDate>2013-05-23-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2004984</emplId>
+      <posnId>00155784</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Sarah Emily Hulick</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2007-08-30-07:00</hireDate>
+      <contServDate>2013-05-31-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2651600</emplId>
+      <posnId>00152073</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Sydney J. Hurley</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2010-05-03-07:00</hireDate>
+      <contServDate>2013-05-06-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3492211</emplId>
+      <posnId>00153706</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Jacob A. Jankowski</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-05-20-07:00</hireDate>
+      <contServDate>2013-05-20-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3493421</emplId>
+      <posnId>00154173</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Tadhg A. Karski</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-05-20-07:00</hireDate>
+      <contServDate>2013-05-20-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3499143</emplId>
+      <posnId>00157708</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Katherine Garland Lyons</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-06-17-07:00</hireDate>
+      <contServDate>2013-06-17-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3227689</emplId>
+      <posnId>00157707</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Allison Marie Maloney</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-06-17-07:00</hireDate>
+      <contServDate>2013-06-17-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2965974</emplId>
+      <posnId>00153255</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Elizabeth Claire Maloney</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-05-20-07:00</hireDate>
+      <contServDate>2013-05-20-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3485051</emplId>
+      <posnId>00151248</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Aaron Christopher Palmieri</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-04-18-07:00</hireDate>
+      <contServDate>2013-04-18-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3499017</emplId>
+      <posnId>00157621</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Austin K Schessl</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-06-19-07:00</hireDate>
+      <contServDate>2013-06-19-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2672720</emplId>
+      <posnId>00153256</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>McKenzie C. Schessl</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-05-16-07:00</hireDate>
+      <contServDate>2013-05-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3215148</emplId>
+      <posnId>00154352</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Tyler W. Sollenne</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-05-28-07:00</hireDate>
+      <contServDate>2013-05-28-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2037959</emplId>
+      <posnId>00151892</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Andrew T. TenEyck</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2007-07-19-07:00</hireDate>
+      <contServDate>2013-05-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2836392</emplId>
+      <posnId>00155579</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Lauren Marie Thomas</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2011-08-16-07:00</hireDate>
+      <contServDate>2013-05-31-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3495123</emplId>
+      <posnId>00155580</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Dina N. Truncali</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-06-04-07:00</hireDate>
+      <contServDate>2013-06-04-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3490824</emplId>
+      <posnId>00153254</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Taylor M. Truncali</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-05-20-07:00</hireDate>
+      <contServDate>2013-05-20-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3494122</emplId>
+      <posnId>00155057</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Gregory J. Wadhams</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-05-30-07:00</hireDate>
+      <contServDate>2013-05-30-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2441103</emplId>
+      <posnId>00151988</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Allison R. Wentworth</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2009-05-13-07:00</hireDate>
+      <contServDate>2013-04-29-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3495120</emplId>
+      <posnId>00155572</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Anne Wilsey</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-06-10-07:00</hireDate>
+      <contServDate>2013-06-10-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3493879</emplId>
+      <posnId>00166257</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Leslie Kelly Chung</emplFullName>
+      <effDate>2013-09-04-07:00</effDate>
+      <hireDate>2013-05-30-07:00</hireDate>
+      <contServDate>2013-05-30-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3495337</emplId>
+      <posnId>00155633</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Jacob Legott</emplFullName>
+      <effDate>2013-09-05-07:00</effDate>
+      <hireDate>2013-06-06-07:00</hireDate>
+      <contServDate>2013-06-06-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2014144</emplId>
+      <posnId>00168921</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Alexa Lauren Hilmer</emplFullName>
+      <effDate>2013-09-06-07:00</effDate>
+      <hireDate>2011-05-23-07:00</hireDate>
+      <contServDate>2013-08-21-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3502082</emplId>
+      <posnId>00163841</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Hannah Grace Jacon</emplFullName>
+      <effDate>2013-09-06-07:00</effDate>
+      <hireDate>2013-06-27-07:00</hireDate>
+      <contServDate>2013-06-27-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2263973</emplId>
+      <posnId>00166287</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Meghan Theresa Hilbert</emplFullName>
+      <effDate>2013-09-06-07:00</effDate>
+      <hireDate>2012-08-10-07:00</hireDate>
+      <contServDate>2013-08-01-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3550609</emplId>
+      <posnId>00168629</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Robert J. Farnach</emplFullName>
+      <effDate>2013-09-07-07:00</effDate>
+      <hireDate>2013-08-19-07:00</hireDate>
+      <contServDate>2013-08-19-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10975</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>Department Request</reason>
+   </termination>
+   <termination>
+      <emplId>3543681</emplId>
+      <posnId>00166131</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Yuhong Dai</emplFullName>
+      <effDate>2013-09-10-07:00</effDate>
+      <hireDate>2013-08-02-07:00</hireDate>
+      <contServDate>2013-08-02-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10741</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1785971</emplId>
+      <posnId>00163842</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Kathryn N Villani</emplFullName>
+      <effDate>2013-09-10-07:00</effDate>
+      <hireDate>2013-06-21-07:00</hireDate>
+      <contServDate>2013-06-21-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2186893</emplId>
+      <posnId>00157955</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Charlotte E. Lehman</emplFullName>
+      <effDate>2013-09-10-07:00</effDate>
+      <hireDate>2008-03-11-07:00</hireDate>
+      <contServDate>2013-07-19-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3499019</emplId>
+      <posnId>00157624</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Jacob Grimaldi</emplFullName>
+      <effDate>2013-09-10-07:00</effDate>
+      <hireDate>2013-06-17-07:00</hireDate>
+      <contServDate>2013-06-17-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3500456</emplId>
+      <posnId>00157858</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Philippa Ann Lehman</emplFullName>
+      <effDate>2013-09-11-07:00</effDate>
+      <hireDate>2013-06-17-07:00</hireDate>
+      <contServDate>2013-06-17-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3496634</emplId>
+      <posnId>00156087</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Ayse Oz</emplFullName>
+      <effDate>2013-09-12-07:00</effDate>
+      <hireDate>2013-06-13-07:00</hireDate>
+      <contServDate>2013-06-13-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10378</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2481204</emplId>
+      <posnId>00153711</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Patrick James Smerczynski</emplFullName>
+      <effDate>2013-09-13-07:00</effDate>
+      <hireDate>2013-05-21-07:00</hireDate>
+      <contServDate>2013-05-21-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1019204</emplId>
+      <posnId>00166662</posnId>
+      <event>Terminate</event>
+      <retActive>Retired - Active</retActive>
+      <emplFullName>Kathy K. Dusinberre</emplFullName>
+      <effDate>2013-09-13-07:00</effDate>
+      <hireDate>1996-10-01-07:00</hireDate>
+      <contServDate>2013-08-15-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2563998</emplId>
+      <posnId>00110125-100</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Susan Rochel Weibman</emplFullName>
+      <effDate>2013-09-13-07:00</effDate>
+      <hireDate>2012-08-10-07:00</hireDate>
+      <contServDate>2013-02-07-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3307769</emplId>
+      <posnId>00130502</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Anne W. Choi</emplFullName>
+      <effDate>2013-09-13-07:00</effDate>
+      <hireDate>2012-10-08-07:00</hireDate>
+      <contServDate>2012-10-08-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3497626</emplId>
+      <posnId>00166093</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Melissa A. Werner</emplFullName>
+      <effDate>2013-09-13-07:00</effDate>
+      <hireDate>2013-06-03-07:00</hireDate>
+      <contServDate>2013-06-03-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3497668</emplId>
+      <posnId>00156830</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Eliza I. Cope</emplFullName>
+      <effDate>2013-09-16-07:00</effDate>
+      <hireDate>2013-06-17-07:00</hireDate>
+      <contServDate>2013-06-17-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2475770</emplId>
+      <posnId>00154168</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Jolyne E. Kane</emplFullName>
+      <effDate>2013-09-18-07:00</effDate>
+      <hireDate>2013-05-20-07:00</hireDate>
+      <contServDate>2013-05-20-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2482486</emplId>
+      <posnId>00125265-11</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Gary Michael Smith</emplFullName>
+      <effDate>2013-09-18-07:00</effDate>
+      <hireDate>2009-09-17-07:00</hireDate>
+      <contServDate>2009-09-17-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10214</jobCode>
+      <jobCodeFamily>UAW</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1023434</emplId>
+      <posnId>00125265-4</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Patrick C. Anderson</emplFullName>
+      <effDate>2013-09-18-07:00</effDate>
+      <hireDate>1998-04-30-07:00</hireDate>
+      <contServDate>2011-12-01-08:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10214</jobCode>
+      <jobCodeFamily>UAW</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2241881</emplId>
+      <posnId>00125265-7</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Rosalie Dian Hapgood</emplFullName>
+      <effDate>2013-09-18-07:00</effDate>
+      <hireDate>2008-05-29-07:00</hireDate>
+      <contServDate>2008-05-29-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10214</jobCode>
+      <jobCodeFamily>UAW</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2840076</emplId>
+      <posnId>00115753</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Lelibeth Masten</emplFullName>
+      <effDate>2013-09-18-07:00</effDate>
+      <hireDate>2011-01-20-08:00</hireDate>
+      <contServDate>2011-01-20-08:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10404</jobCode>
+      <jobCodeFamily>UAW</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2282171</emplId>
+      <posnId>00167554</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Travis Kyle Chapin</emplFullName>
+      <effDate>2013-09-20-07:00</effDate>
+      <hireDate>2009-01-05-08:00</hireDate>
+      <contServDate>2013-08-17-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3132098</emplId>
+      <posnId>00128065</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Logan J. Davila Santiago</emplFullName>
+      <effDate>2013-09-20-07:00</effDate>
+      <hireDate>2012-02-16-08:00</hireDate>
+      <contServDate>2012-02-16-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10215</jobCode>
+      <jobCodeFamily>UAW</jobCodeFamily>
+      <reason>Relocation</reason>
+   </termination>
+   <termination>
+      <emplId>2041513</emplId>
+      <posnId>00152063</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Kevin W Jerrram</emplFullName>
+      <effDate>2013-09-20-07:00</effDate>
+      <hireDate>2013-05-10-07:00</hireDate>
+      <contServDate>2013-05-10-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2983664</emplId>
+      <posnId>00152051</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Charlotte Ott</emplFullName>
+      <effDate>2013-09-20-07:00</effDate>
+      <hireDate>2013-04-29-07:00</hireDate>
+      <contServDate>2013-04-29-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3488889</emplId>
+      <posnId>00152148</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Caitlin Wheeler</emplFullName>
+      <effDate>2013-09-20-07:00</effDate>
+      <hireDate>2013-05-06-07:00</hireDate>
+      <contServDate>2013-05-06-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3488918</emplId>
+      <posnId>00152234</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Alexander James Brickett</emplFullName>
+      <effDate>2013-09-20-07:00</effDate>
+      <hireDate>2013-05-06-07:00</hireDate>
+      <contServDate>2013-05-06-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1784244</emplId>
+      <posnId>00130688</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Anne E. Klingensmith</emplFullName>
+      <effDate>2013-09-21-07:00</effDate>
+      <hireDate>2005-03-15-08:00</hireDate>
+      <contServDate>2007-12-01-08:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10232</jobCode>
+      <jobCodeFamily>ADMIN</jobCodeFamily>
+      <reason>Lack of Funds</reason>
+   </termination>
+   <termination>
+      <emplId>2314086</emplId>
+      <posnId>00157711</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Rafael Enrique Lizarralde</emplFullName>
+      <effDate>2013-09-23-07:00</effDate>
+      <hireDate>2011-08-25-07:00</hireDate>
+      <contServDate>2013-06-13-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3555696</emplId>
+      <posnId>00169464</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Heath S. Duncan</emplFullName>
+      <effDate>2013-09-23-07:00</effDate>
+      <hireDate>2013-08-28-07:00</hireDate>
+      <contServDate>2013-08-28-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10975</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>Department Request</reason>
+   </termination>
+   <termination>
+      <emplId>3555696</emplId>
+      <posnId>00170316</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Heath S. Duncan</emplFullName>
+      <effDate>2013-09-23-07:00</effDate>
+      <hireDate>2013-08-28-07:00</hireDate>
+      <contServDate>2013-08-28-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10975</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>Department Request</reason>
+   </termination>
+   <termination>
+      <emplId>3303255</emplId>
+      <posnId>00145597</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Junjie Zhang</emplFullName>
+      <effDate>2013-09-24-07:00</effDate>
+      <hireDate>2012-09-25-07:00</hireDate>
+      <contServDate>2012-09-25-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10378</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2087566</emplId>
+      <posnId>00136011</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Jennifer Lynn Cummings</emplFullName>
+      <effDate>2013-09-25-07:00</effDate>
+      <hireDate>2007-11-08-08:00</hireDate>
+      <contServDate>2007-11-08-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10004</jobCode>
+      <jobCodeFamily>BDGPLN</jobCodeFamily>
+      <reason>Relocation</reason>
+   </termination>
+   <termination>
+      <emplId>2695783</emplId>
+      <posnId>00139439-1</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Xiaolian He</emplFullName>
+      <effDate>2013-09-25-07:00</effDate>
+      <hireDate>2010-08-26-07:00</hireDate>
+      <contServDate>2010-08-26-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10836</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1007038</emplId>
+      <posnId>00172673</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Alice S. Wu</emplFullName>
+      <effDate>2013-09-25-07:00</effDate>
+      <hireDate>2002-03-11-08:00</hireDate>
+      <contServDate>2002-03-11-08:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>Department Hire Misinformation</reason>
+   </termination>
+   <termination>
+      <emplId>3478016</emplId>
+      <posnId>00150496</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Shan Tian</emplFullName>
+      <effDate>2013-09-26-07:00</effDate>
+      <hireDate>2013-03-26-07:00</hireDate>
+      <contServDate>2013-03-26-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10378</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1774222</emplId>
+      <posnId>00146915</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Sean Samuel Schell</emplFullName>
+      <effDate>2013-09-27-07:00</effDate>
+      <hireDate>2004-08-24-07:00</hireDate>
+      <contServDate>2004-08-24-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10345</jobCode>
+      <jobCodeFamily>TECH</jobCodeFamily>
+      <reason>Relocation</reason>
+   </termination>
+   <termination>
+      <emplId>3542615</emplId>
+      <posnId>00133517</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Domingo Emilio Reyes II</emplFullName>
+      <effDate>2013-09-27-07:00</effDate>
+      <hireDate>2013-08-01-07:00</hireDate>
+      <contServDate>2013-08-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10406</jobCode>
+      <jobCodeFamily>UAW</jobCodeFamily>
+      <reason>Voluntary</reason>
+   </termination>
+   <termination>
+      <emplId>2695768</emplId>
+      <posnId>00108696</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Justin T. Feller</emplFullName>
+      <effDate>2013-09-27-07:00</effDate>
+      <hireDate>2010-08-31-07:00</hireDate>
+      <contServDate>2013-01-21-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10404</jobCode>
+      <jobCodeFamily>UAW</jobCodeFamily>
+      <reason>Misconduct</reason>
+   </termination>
+   <termination>
+      <emplId>3549595</emplId>
+      <posnId>00167455</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Catia Delmiglio</emplFullName>
+      <effDate>2013-09-28-07:00</effDate>
+      <hireDate>2013-09-15-07:00</hireDate>
+      <contServDate>2013-09-15-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10378</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1010690</emplId>
+      <posnId>00133935</posnId>
+      <event>Terminate</event>
+      <retActive>Retired - Active</retActive>
+      <emplFullName>Stephen Edward Goggin</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>1980-09-11-07:00</hireDate>
+      <contServDate>1980-09-11-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>Return to Retirement</reason>
+   </termination>
+   <termination>
+      <emplId>2259413</emplId>
+      <posnId>00170197</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Elena Y. Nogina</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2013-09-01-07:00</hireDate>
+      <contServDate>2013-09-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10836</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1013342</emplId>
+      <posnId>00170195</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Sergei Artemov</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2013-09-01-07:00</hireDate>
+      <contServDate>2013-09-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10836</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3353997</emplId>
+      <posnId>00144541</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Colin Crick</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2012-11-20-08:00</hireDate>
+      <contServDate>2012-11-20-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10839</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1282610</emplId>
+      <posnId>00138821</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Michele Steffey</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2000-07-10-07:00</hireDate>
+      <contServDate>2000-07-10-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10732</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1309239</emplId>
+      <posnId>00105982-1</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Kyoung Woo Kim</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2002-08-01-07:00</hireDate>
+      <contServDate>2013-10-01-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10839</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>Resignation-Other Position</reason>
+   </termination>
+   <termination>
+      <emplId>2256877</emplId>
+      <posnId>00146506-3</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Daehwan Cho</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2008-07-20-07:00</hireDate>
+      <contServDate>2013-10-01-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10706</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>Resignation-Other Position</reason>
+   </termination>
+   <termination>
+      <emplId>3308061</emplId>
+      <posnId>00142865</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Changjiang Zhang</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2012-10-01-07:00</hireDate>
+      <contServDate>2012-10-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10741</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3090055</emplId>
+      <posnId>00146178</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Jong-Wei Hsu</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2011-12-01-08:00</hireDate>
+      <contServDate>2011-12-01-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10706</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>Resignation-Other Position</reason>
+   </termination>
+   <termination>
+      <emplId>2681858</emplId>
+      <posnId>00144502-5</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Luigi Maritato</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2010-07-31-07:00</hireDate>
+      <contServDate>2010-07-31-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10839</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3499145</emplId>
+      <posnId>00157710</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Mehmet Erhan Gore</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2013-07-03-07:00</hireDate>
+      <contServDate>2013-07-03-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10839</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2677259</emplId>
+      <posnId>00146960-1</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Sarwat Ismail</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2010-06-03-07:00</hireDate>
+      <contServDate>2010-06-03-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10376</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3274363</emplId>
+      <posnId>00148121</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Savia Gavazza Dos Santos Pessoa</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2012-10-01-07:00</hireDate>
+      <contServDate>2012-10-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10736</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2000815</emplId>
+      <posnId>00145177-118</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Kaiyan Qiu</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2012-08-10-07:00</hireDate>
+      <contServDate>2013-03-06-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10378</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1292194</emplId>
+      <posnId>00148584</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Chiyoko K. Frank</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2001-08-16-07:00</hireDate>
+      <contServDate>2012-10-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10378</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1692112</emplId>
+      <posnId>00100894</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Christianne McMillan White</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2007-09-10-07:00</hireDate>
+      <contServDate>2007-09-10-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10015</jobCode>
+      <jobCodeFamily>ADMIN</jobCodeFamily>
+      <reason>Lack of Funds</reason>
+   </termination>
+   <termination>
+      <emplId>1006228</emplId>
+      <posnId>00147440-1</posnId>
+      <event>Terminate</event>
+      <retActive>Retired - Active</retActive>
+      <emplFullName>Judy L. Urban</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>1974-11-11-08:00</hireDate>
+      <contServDate>1974-11-11-08:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10986</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1762481</emplId>
+      <posnId>00146815</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Sungsoo Michael Yoo</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2004-08-16-07:00</hireDate>
+      <contServDate>2012-08-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>Voluntary</reason>
+   </termination>
+   <termination>
+      <emplId>3312047</emplId>
+      <posnId>00139362-1</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Alan W. Astle</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2012-10-22-07:00</hireDate>
+      <contServDate>2012-10-22-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>11102</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2259124</emplId>
+      <posnId>00154628</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Ariel Serena Aicher</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2011-02-03-08:00</hireDate>
+      <contServDate>2013-06-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10984</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2188203</emplId>
+      <posnId>00154481</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Chelsea Christine Finical</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2009-10-26-07:00</hireDate>
+      <contServDate>2013-05-31-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10972</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2302539</emplId>
+      <posnId>00150784</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>John Conner Russell</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2012-08-10-07:00</hireDate>
+      <contServDate>2013-04-16-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1315335</emplId>
+      <posnId>00147895</posnId>
+      <event>Terminate</event>
+      <retActive>On Leave</retActive>
+      <emplFullName>Ellen M. Kathan</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2003-04-28-07:00</hireDate>
+      <contServDate>2003-04-28-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10821</jobCode>
+      <jobCodeFamily>ACASUP</jobCodeFamily>
+      <reason>Personal Reasons</reason>
+   </termination>
+   <termination>
+      <emplId>1007999</emplId>
+      <posnId>00101178</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Timothy Olen Moyer</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>1976-06-10-07:00</hireDate>
+      <contServDate>1976-06-10-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10920</jobCode>
+      <jobCodeFamily>TECH</jobCodeFamily>
+      <reason>Retirement</reason>
+   </termination>
+   <termination>
+      <emplId>3075190</emplId>
+      <posnId>00103279</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Rasa Zalakeviciute</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2011-11-01-07:00</hireDate>
+      <contServDate>2011-11-01-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10706</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1008574</emplId>
+      <posnId>00134613</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Arthur T. Degaetano</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>1991-09-02-07:00</hireDate>
+      <contServDate>1991-09-02-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10742</jobCode>
+      <jobCodeFamily>PROF</jobCodeFamily>
+      <reason>Voluntary</reason>
+   </termination>
+   <termination>
+      <emplId>2955380</emplId>
+      <posnId>00166011</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Maja M. Anderson</emplFullName>
+      <effDate>2013-09-30-07:00</effDate>
+      <hireDate>2011-04-25-07:00</hireDate>
+      <contServDate>2011-04-25-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10016</jobCode>
+      <jobCodeFamily>ADMIN</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2355383</emplId>
+      <posnId>00131283</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Patricia C. Nguyen</emplFullName>
+      <effDate>2013-10-01-07:00</effDate>
+      <hireDate>2009-04-20-07:00</hireDate>
+      <contServDate>2009-04-20-07:00</contServDate>
+      <currentlyActive>N</currentlyActive>
+      <jobCode>10913</jobCode>
+      <jobCodeFamily>STUSRV</jobCodeFamily>
+      <reason>Voluntary</reason>
+   </termination>
+   <termination>
+      <emplId>2777955</emplId>
+      <posnId>00170916</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Alexandra Morgan Class Freeman</emplFullName>
+      <effDate>2013-10-01-07:00</effDate>
+      <hireDate>2013-08-05-07:00</hireDate>
+      <contServDate>2013-08-05-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1313098</emplId>
+      <posnId>00170915</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Scott Andrew Haber</emplFullName>
+      <effDate>2013-10-01-07:00</effDate>
+      <hireDate>2005-05-26-07:00</hireDate>
+      <contServDate>2011-01-17-08:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>11510</jobCode>
+      <jobCodeFamily>COMMKT</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3476979</emplId>
+      <posnId>00150351</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Wendy Sue Martin</emplFullName>
+      <effDate>2013-10-01-07:00</effDate>
+      <hireDate>2013-03-21-07:00</hireDate>
+      <contServDate>2013-03-21-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10975</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1017369</emplId>
+      <posnId>00101947</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>William L. Grover</emplFullName>
+      <effDate>2013-10-02-07:00</effDate>
+      <hireDate>1995-08-28-07:00</hireDate>
+      <contServDate>1995-08-28-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10367</jobCode>
+      <jobCodeFamily>SRVFAC</jobCodeFamily>
+      <reason>Retirement</reason>
+   </termination>
+   <termination>
+      <emplId>1004007</emplId>
+      <posnId>00172562</posnId>
+      <event>Terminate</event>
+      <retActive>Retired - Active</retActive>
+      <emplFullName>Carole Soudant Daugherty</emplFullName>
+      <effDate>2013-10-02-07:00</effDate>
+      <hireDate>1967-06-20-07:00</hireDate>
+      <contServDate>2013-09-01-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10984</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>2070342</emplId>
+      <posnId>00145214</posnId>
+      <event>End Additional Job</event>
+      <retActive/>
+      <emplFullName>Maureen G. Gunderson</emplFullName>
+      <effDate>2013-10-02-07:00</effDate>
+      <hireDate>2007-10-03-07:00</hireDate>
+      <contServDate>2007-10-03-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10816</jobCode>
+      <jobCodeFamily>ACASUP</jobCodeFamily>
+      <reason>End of Temporary Appt</reason>
+   </termination>
+   <termination>
+      <emplId>3497292</emplId>
+      <posnId>00165580</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Jessica Lea Cappadonna</emplFullName>
+      <effDate>2013-10-05-07:00</effDate>
+      <hireDate>2013-05-22-07:00</hireDate>
+      <contServDate>2013-07-23-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10980</jobCode>
+      <jobCodeFamily>TEMPS</jobCodeFamily>
+      <reason>Relocation</reason>
+   </termination>
+   <termination>
+      <emplId>1842112</emplId>
+      <posnId>00139053</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Christopher J. Tremblay</emplFullName>
+      <effDate>2013-10-05-07:00</effDate>
+      <hireDate>2006-01-30-08:00</hireDate>
+      <contServDate>2006-01-30-08:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10821</jobCode>
+      <jobCodeFamily>ACASUP</jobCodeFamily>
+      <reason>Lack of Funds</reason>
+   </termination>
+   <termination>
+      <emplId>1007707</emplId>
+      <posnId>00117079</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Lee Thomas Cartmill</emplFullName>
+      <effDate>2013-10-16-07:00</effDate>
+      <hireDate>1976-01-30-08:00</hireDate>
+      <contServDate>1976-01-30-08:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>11572</jobCode>
+      <jobCodeFamily>ADMIN</jobCodeFamily>
+      <reason>Retirement</reason>
+   </termination>
+   <termination>
+      <emplId>3312552</emplId>
+      <posnId>00145297</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Bing Wang</emplFullName>
+      <effDate>2013-10-19-07:00</effDate>
+      <hireDate>2012-10-20-07:00</hireDate>
+      <contServDate>2012-10-20-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10378</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1010216</emplId>
+      <posnId>00131632-3</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Leslie Paul Chew</emplFullName>
+      <effDate>2013-10-26-07:00</effDate>
+      <hireDate>1988-08-23-07:00</hireDate>
+      <contServDate>1988-08-23-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10839</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+   <termination>
+      <emplId>1772177</emplId>
+      <posnId>00135312</posnId>
+      <event>Terminate</event>
+      <retActive/>
+      <emplFullName>Slava Krylov</emplFullName>
+      <effDate>2013-10-31-07:00</effDate>
+      <hireDate>2004-07-24-07:00</hireDate>
+      <contServDate>2004-07-24-07:00</contServDate>
+      <currentlyActive>Y</currentlyActive>
+      <jobCode>10741</jobCode>
+      <jobCodeFamily>ACAOTH</jobCodeFamily>
+      <reason>End of Term Appt</reason>
+   </termination>
+</terminations>

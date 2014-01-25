@@ -1,0 +1,8 @@
+CREATE TABLE vivoacademic (
+ EmplID INT,
+ PRIMARY KEY (EmplID), 
+ DeptID VARCHAR(50),
+ DeptID_Ldesc VARCHAR(255),
+ Position_Nbr VARCHAR(255),
+ Expected_Return_Date VARCHAR(255)
+ )

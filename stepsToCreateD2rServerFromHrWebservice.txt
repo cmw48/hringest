@@ -1,0 +1,50 @@
+Steps to create a D2R Server representation of HR webservice data (to be scripted and automated daily)
+
+Processing all takes place on vivo-migrate.library.cornell.edu
+
+1)	Create directory in /vivo/hringest/newhr/hrYYMMDD
+2)	Copy latest files from webservice pull to hrYYMMDD
+                (* webservice pull presently occurs on Bailey, but could move to vivo-migrate VM when it was ready)
+
+files for 13-10-04:
+  jobHR2013-10-04.xml
+  personHR2013-10-04.xml
+  terms_Test20130401-2013-09-30.xml
+
+3)	perform transforms: 
+
+java -jar ../saxon/saxon9he.jar jobHR2013-10-04.xml  ../hrxsl/vivojobAlignToD2R.xsl > vivojob131004.xml
+java -jar ../saxon/saxon9he.jar vivojob131004.xml  ../hrxsl/vivojobToMySql.xsl > vivojob131004.sql
+
+java -jar ../saxon/saxon9he.jar personHR2013-10-04.xml  ../hrxsl/vivopersonAlignToD2R.xsl > vivoperson131004.xml
+java -jar ../saxon/saxon9he.jar vivoperson131004.xml  ../hrxsl/vivopersonToMySql.xsl > vivoperson131004.sql
+
+java -jar ../saxon/saxon9he.jar terms_Test20130401-2013-09-30.xml  ../hrxsl/vivotermAlignToD2R.xsl > vivoterm130930.xml
+java -jar ../saxon/saxon9he.jar vivoterm130930.xml ../hrxsl/vivotermToMySql.xsl > vivoterm130930.sql
+
+
+4)	load data into mysql
+
+mysql -p newhr_cmw48 < /vivo/cmw48/newHR/hr131004/vivojob131004.sql
+mysql -p newhr_cmw48 < /vivo/cmw48/newHR/hr131004/vivoperson131004.sql
+mysql -p newhr_cmw48 < /vivo/cmw48/newHR/hr131004/vivoterm130930.sql
+
+5)	(re)start D2R Server in a new terminal
+cd /vivo/d2rq-0.8.1
+./d2r-server --verbose hrd2rq35.n3 2>&1 | tee -a hristesting35.log
+
+6)	run loadVivoNightly.sh to reload vivo instance at http://vivo-migrate.library.cornell.edu:8080/vivomigrate/ with the most up-to-date production data
+                                                                                    
+7)	(re)start fuseki in a new terminal 
+cd /vivo/fuseki
+./launchFuseki.sh
+tail -f -n1000 FusekiLog-yyyy-mm-dd.log
+
+8)	Run hrIngest code
+(* currently running from cmw48-dev, could be moved when ready)
+cd /lib-dev/workspace/hrcode/dist/
+java jar hr.jar
+
+9)	Apply rdf files to vivo-migrate, check to make sure changes are correct
+10)	Apply the same rdf to production.
+
